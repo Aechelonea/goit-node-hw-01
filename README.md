@@ -4,16 +4,16 @@ Aplikacja CLI do zarządzania listą kontaktów. Poniżej znajdują się zrzuty 
 
 ## Wyprowadzanie całej listy kontaktów
 
-![Wyprowadzanie listy kontaktów](https://api.monosnap.com/file/download?id=f3Uc9BV3Xe3x3GXZzYq3Ne8k3e81fs)
+![Wyprowadzanie listy kontaktów](https://ibb.co/p1vq6QF)
 
 ## Pobieranie kontaktu po ID
 
-![Pobieranie kontaktu po ID](https://api.monosnap.com/file/download?id=m8Vcc6MZOJY6uplHaG78wIlLjw5Ref)
+![Pobieranie kontaktu po ID](https://ibb.co/nctWjkh)
 
 ## Dodawanie nowego kontaktu
 
-![Dodawanie nowego kontaktu](https://api.monosnap.com/file/download?id=EEwjO2DrMlKm9CJhWRCSYfFkgQMTSm)
+![Dodawanie nowego kontaktu](https://ibb.co/8MGmXPH)
 
 ## Usuwanie kontaktu
 
-![Usuwanie kontaktu](https://api.monosnap.com/file/download?id=BHomxaGw6tId2TfqtNaqq0kQ5ixqdl)
+![Usuwanie kontaktu](https://ibb.co/mh4pGRj)
