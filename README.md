@@ -4,16 +4,16 @@ Aplikacja CLI do zarządzania listą kontaktów. Poniżej znajdują się zrzuty 
 
 ## Wyprowadzanie całej listy kontaktów
 
-![Wyprowadzanie listy kontaktów](https://ibb.co/p1vq6QF)
+![Wyprowadzanie listy kontaktów](https://i.ibb.co/FhbpkXT/01.jpg)
 
 ## Pobieranie kontaktu po ID
 
-![Pobieranie kontaktu po ID](https://ibb.co/nctWjkh)
+![Pobieranie kontaktu po ID](https://i.ibb.co/swzBq3L/02.jpg)
 
 ## Dodawanie nowego kontaktu
 
-![Dodawanie nowego kontaktu](https://ibb.co/8MGmXPH)
+![Dodawanie nowego kontaktu](https://i.ibb.co/1ZB0bRk/03.jpg)
 
 ## Usuwanie kontaktu
 
-![Usuwanie kontaktu](https://ibb.co/mh4pGRj)
+![Usuwanie kontaktu](https://i.ibb.co/L91K80F/04.jpg)
